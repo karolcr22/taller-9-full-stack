@@ -1,0 +1,50 @@
+*{
+  margin: 0px;
+}
+
+header {
+  margin: 0px 430px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  width: 400px;
+  padding: 10px 20px;
+  background-color: #de9df2;
+  cursor: pointer;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff; 
+}
+
+button {
+  background-color: blue;
+  border: none;
+  color: #fff;
+  width: 57px;
+  padding: 7px;
+  cursor: pointer;
+}
+
+div {
+  margin: 200px 0px;
+  
+}
+.btn {
+  width: 130px;
+  height: 40px;
+  color: #fff;
+  border-radius: 10px;
+  padding: 10px 25px;
+  margin: 200px 570px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  background-color: #399969;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  }
