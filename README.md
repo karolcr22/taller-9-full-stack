@@ -7,7 +7,7 @@
 <h2>Punto 1: Mockup en figma</h2>
 <a href="https://www.figma.com/file/KmA6zgjmOJraQbq1yqLXAY/Excercise-1?node-id=30%3A274&t=gumKv8DdLFV4ZLFa-1">Link de diseño en figma</a>
 
-<a href="#">Link pagina</a>
+<a href="https://karolcr22.github.io/taller-9-full-stack/">Link pagina</a>
 <br>
 
 <h2>Punto 2: HTML</h2>
