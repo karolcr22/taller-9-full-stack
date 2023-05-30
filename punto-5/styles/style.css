@@ -1,0 +1,51 @@
+
+p {
+  width: 700px;
+  margin: 30px 100px;
+}
+
+.underline-green {
+  color: green;
+}
+
+b {
+  color: red;
+}
+
+.underline-overline {
+  text-decoration-line: underline overline;
+}  
+
+.text-big {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.span-blue {
+  font-size: 20px;
+  color: blue;
+  font-weight: 700;
+}
+
+.underline-red {
+  color: red;
+}
+
+div {
+  margin: 200px 0px;
+  
+}
+a {
+  width: 130px;
+  height: 40px;
+  color: #fff;
+  border-radius: 10px;
+  padding: 10px 25px;
+  margin: 200px 570px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  background-color: #399969;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  }
