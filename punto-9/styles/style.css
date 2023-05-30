@@ -1,0 +1,49 @@
+div {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0px;
+}
+
+table {
+  background-color: yellow;
+  border-collapse: collapse;
+  width: 820px;
+}
+
+.text-red {
+  color: red;
+  font-style: italic;
+  font-size: 12px;
+  text-align: center;
+}
+
+.text-red b {
+  font-size: 22px;
+}
+
+table th, td {
+  border: 1.5px dotted #000;
+}
+
+.border-bottom-red td{
+  border-bottom: 2px dotted red;
+}
+
+.back {
+  margin: 100px 0px;
+  
+}
+.btn {
+  width: 130px;
+  height: 40px;
+  color: #fff;
+  border-radius: 10px;
+  padding: 7px 25px;
+  margin: 200px 570px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  background-color: #399969;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  }
