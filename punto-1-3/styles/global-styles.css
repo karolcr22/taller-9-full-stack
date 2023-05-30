@@ -1,0 +1,42 @@
+/*ESTILOS GLOBALES*/
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600&display=swap');
+
+body {
+	margin: 0;
+}
+
+a{
+	font-family: 'Jost';
+	font-size: 18px;
+}
+
+button {
+	font-family: 'Jost';
+	font-weight: bold;
+	border-radius: 10px;
+	cursor: pointer;
+	padding: 12px 25px;
+}
+
+p {
+	font-family: 'Jost';
+	font-weight: 300;
+	font-size: 13.5px;
+	letter-spacing: -0.84px;
+}
+
+.button__orange {
+	border: none;
+	background-color: #FD909E;
+	color: #fff;
+	margin-right: 18px;
+}
+
+h2 {
+	margin: 5px 0px;
+	color: #454868;
+	font-family: 'Jost';
+	font-size: 48px;
+	font-height: 55px;
+	letter-spacing: -0.64px;
+}
